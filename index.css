@@ -35,6 +35,11 @@ nav ul li a {
 #about {
   padding: 50px 20px;
 }
+
+.About:hover {
+  background-color: black;
+  color: green;
+}
 .about:hover {
   /* background-color: black; */
   color: green;
@@ -55,7 +60,9 @@ h3 {
   padding: 50px 20px;
   background-color: #f4f4f4;
 }
-
+.projects:hover {
+  color: green;
+}
 .project:hover {
   background-color: black;
   color: green;
@@ -86,7 +93,9 @@ h3 {
 #contact {
   padding: 50px 20px;
 }
-
+.contact:hover {
+  color: green;
+}
 form {
   max-width: 600px;
   margin: 0 auto;
