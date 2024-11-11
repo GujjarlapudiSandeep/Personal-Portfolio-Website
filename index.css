@@ -35,6 +35,10 @@ nav ul li a {
 #about {
   padding: 50px 20px;
 }
+#about-hover {
+  background-color: black;
+  color: green;
+}
 
 h2 {
   text-align: center;
@@ -106,7 +110,8 @@ button {
 }
 
 button:hover {
-  background-color: #555;
+  background-color: black;
+  color: green;
 }
 
 @media screen and (max-width: 768px) {
@@ -145,4 +150,6 @@ nav ul li a.active {
 
 .resume-btn:hover {
   background-color: #555;
+  background-color: black;
+  color: green;
 }
