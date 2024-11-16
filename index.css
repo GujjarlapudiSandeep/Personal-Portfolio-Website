@@ -45,8 +45,9 @@ nav ul li a {
   border-radius: 5px;
 }
 .about:hover {
-  /* background-color: black; */
   color: green;
+  background-color: black;
+  border-radius: 5px;
 }
 
 h2 {
@@ -66,6 +67,8 @@ h3 {
 }
 .projects:hover {
   color: green;
+  background-color: black;
+  border-radius: 5px;
 }
 .project:hover {
   background-color: black;
@@ -120,6 +123,8 @@ h3 {
 }
 .contact:hover {
   color: green;
+  background-color: black;
+  border-radius: 5px;
 }
 form {
   max-width: 600px;
